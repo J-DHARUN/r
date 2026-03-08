@@ -1,0 +1,6 @@
+StudentID,gender, Age,gradeLevel  ,mathscore,writing score ,studyhours, attandance rate, 
+1,male ,16,10th,78,85,80,10,
+2,male ,18,11th,88,89,60,11,
+3,Female,19,12th,95,56,50,12,
+4,Female,20,15th,98,45,60,13,
+5,male ,25,11th,96,68,30,14,

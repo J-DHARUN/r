@@ -1,0 +1,11 @@
+employee_id,age,experience,hours_worked,tasks_completed,work_mode,productivity_level,Department,Count of Employees
+1,49,3,59,20,Remote,Medium,HR,10
+2,36,9,43,89,Remote,Low,IT,13
+3,30,8,33,58,Hybrid,Low,Finance,22
+4,42,5,38,28,In-Office,High,HR,7
+5,34,9,50,60,Hybrid,Medium,Network,14
+6,46,30,31,97,Hybrid,High,Helpdesk,17
+7,40,34,27,54,Hybrid,Low,CEO,21
+8,36,24,31,75,Remote,High,Finance,13
+9,55,3,51,34,Remote,Medium,Network,9
+10,54,25,57,20,Hybrid,High,Helpdesk,18
